@@ -1,5 +1,5 @@
 # terminal-project-repo
-Made for Alchemy Dev101 course
+Made for Alchemy Dev-101 course
 
 # Ways to drink coffee
 
